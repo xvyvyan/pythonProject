@@ -35,4 +35,5 @@ for page in range(1,18):
     page=parseNewList(html)
     urlList.extend(page)
 saveJson(urlList,'files/','newlist.json')
+print('x')
 print('运行完了')
