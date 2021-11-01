@@ -37,3 +37,4 @@ for page in range(1,18):
 saveJson(urlList,'files/','newlist.json')
 print('x')
 print('运行完了')
+print('y')
